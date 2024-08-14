@@ -1,0 +1,15 @@
+{
+  "name": "c1973-backend",
+  "version": "1.0.0",
+  "description": "Backend for the c1973 app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "author": "dd-002",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
